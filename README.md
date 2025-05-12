@@ -32,11 +32,11 @@
 
 ## 🌟 Intereses
 
-- 🔍 Análisis de datos
-- 🧠 Machine Learning (básico)
-- 💻 Desarrollo de sistemas web
-- 🔄 Automatización de procesos
-- 🧩 UX/UI (aprendiendo)
+- 🎯 Optimización de procesos con tecnología
+- 📊 Análisis de datos para toma de decisiones
+- 🖥️ Diseño web responsivo con HTML/CSS/JS
+- 🎨 UX/UI y diseño centrado en el usuario
+- 🛠️ Automatización de tareas y flujos de trabajo
 
 ---
 
