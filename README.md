@@ -42,4 +42,4 @@
 
 <h3 align="left">## 📫 Contáctame</h3>
 - ✉ correo: mdcpradom@gmail.com  
-- 🌐 LinkedIn:[www.linkedin.com/in/maría-del-carmen-prado-mesones-011823195](www.linkedin.com/in/maría-del-carmen-prado-mesones-011823195) 
+- 🌐 LinkedIn: www.linkedin.com/in/maría-del-carmen-prado-mesones-011823195
