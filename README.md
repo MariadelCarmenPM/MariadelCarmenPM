@@ -28,15 +28,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-## 🌟 Proyectos destacados (pinned / quick view)
-- **`sistema-clinica-web`** — Sistema web full-stack (HTML, CSS, JS, PHP, MySQL). CRUD de pacientes, citas, documentación y manual de usuario.
-- **`automatizacion-reportes-produce`** — Automatizaciones en Excel + VBA y Power Query para consolidación de datos y generación de informes operativos.
-- **`dashboard-powerbi-ventas`** — Dashboard Power BI: KPIs, modelado básico y visualizaciones interactivas para seguimiento operativo.
-
-> Cada repositorio contiene: README con objetivo, instrucciones de ejecución, dataset de ejemplo o mock data, y capturas.  
-> **Ver repositorios anclados (pinned) para ver demos y código.**
-
----
 
 ## 🌟 Intereses
 
