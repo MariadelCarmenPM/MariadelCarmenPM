@@ -21,12 +21,23 @@
 
 ---
 
-## 📊 Herramientas y Software
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🛠 Tech stack 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+## 🌟 Proyectos destacados (pinned / quick view)
+- **`sistema-clinica-web`** — Sistema web full-stack (HTML, CSS, JS, PHP, MySQL). CRUD de pacientes, citas, documentación y manual de usuario.
+- **`automatizacion-reportes-produce`** — Automatizaciones en Excel + VBA y Power Query para consolidación de datos y generación de informes operativos.
+- **`dashboard-powerbi-ventas`** — Dashboard Power BI: KPIs, modelado básico y visualizaciones interactivas para seguimiento operativo.
+
+> Cada repositorio contiene: README con objetivo, instrucciones de ejecución, dataset de ejemplo o mock data, y capturas.  
+> **Ver repositorios anclados (pinned) para ver demos y código.**
 
 ---
 
