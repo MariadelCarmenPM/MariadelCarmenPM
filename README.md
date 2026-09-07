@@ -1,7 +1,7 @@
 <h1 align="center">👋, ¡Hola! Soy Maria del Carmen Prado Mesones</h1>
 <h3 align="center">💡 Apasionada por el análisis de datos, programación y tecnología aplicada a la mejora de procesos.   
 </h3>
-<h3 align="center">🎓 Egresada de Ingeniería de Sistemas e Informática (9no ciclo)</h3>
+<h3 align="center">🎓 Egresada de Ingeniería de Sistemas e Informática </h3>
 <h3 align="center">📍 Lima, Perú </h3>  
 <h3 align="center">🌱 Siempre en aprendizaje continuo y lista para nuevos retos</h3>
 
